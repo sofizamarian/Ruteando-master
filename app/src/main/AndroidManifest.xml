@@ -29,10 +29,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="mx.devf.ruteando.ocioActivity"
-            android:label="@string/title_activity_ocio" >
-        </activity>
+
         <activity
             android:name="mx.devf.ruteando.OcioActivity"
             android:label="@string/title_activity_ocio" >
