@@ -22,7 +22,7 @@ public class Comida extends ActionBarActivity {
         listaDeRutas = (ListView)findViewById(R.id.lista_comida);
         //solo para prueba
         String nombresDeRutas [] = {"Mexicana","Argentina","Italiana","Chatarra"};
-
+//arhfgjk
         //para adaptar los arreglos a la vista, osea los string
         ArrayAdapter<String> adaptadorDeLista = new ArrayAdapter<String>(Comida.this,
                 R.layout.item_lista_rutas,
